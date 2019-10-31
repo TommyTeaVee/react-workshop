@@ -5,3 +5,10 @@ React application that can communicate with Algorand blockchain using Algorand J
 ```npm i```
 
 ```npm run start```
+
+## Resources
+
+https://github.com/algorand/go-algorand
+https://developer.algorand.org/
+https://algoexplorer.io/
+https://bank.testnet.algorand.network/
